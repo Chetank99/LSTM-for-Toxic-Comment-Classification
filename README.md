@@ -4,3 +4,5 @@ Using LSTM for text classification of data to classify Quora quesonstions as tox
 Have shown Exploratory data analysis
 
 ![alt text](https://qph.fs.quoracdn.net/main-thumb-55866273-200-neufxermetjzegywrltpatrrkmgyqqkn.jpeg)
+
+https://drive.google.com/drive/u/1/folders/1XMe2UlVIQ1_YRjhC1Fl0W4uYwHunHZCE
